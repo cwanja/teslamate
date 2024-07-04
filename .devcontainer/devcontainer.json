@@ -5,6 +5,7 @@
       "elixirVersion": "latest",
       "erlangVersion": "latest"
     },
-    "ghcr.io/itsmechlark/features/postgresql:1": {}
+    "ghcr.io/itsmechlark/features/postgresql:1": {},
+    "ghcr.io/devcontainers-contrib/features/node-asdf:0": {}
   }
 }
