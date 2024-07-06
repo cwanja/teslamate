@@ -9,6 +9,9 @@
 - Customize intervals between vehicle_data calls (#3940 - @jlestel)
 - feat: Create NixOS module (#3998 - @scottbot95)
 - Update vehicle.ex with marketing name for Model Y Long Range RWD (#3989 - @stefanlange)
+- feat: Add ability to enable and disable data collection for cars (#3993 - @mark3-dev)
+- publish center_display_state to mqtt (#3813 - @Atrox)
+- feat: add LFP Battery setting for car settings (#4007 -@cwanja)
 
 ### Improvements and bug fixes
 
@@ -30,6 +33,8 @@
 - Ensure Index usage when getting temperatures in overview dashboard (#4019 - @swiffer)
 - re-enable time picker by default in drive-details, charge-details dashboards (#3985)
 - Improve "Charges" dashboard (#4031 - @jheredianet)
+- Improve "Drives" dashboard (#4033 - @jheredianet)
+- Update overview.json: Add Distance (#4034 - @DrMichael)
 
 #### Translations
 
